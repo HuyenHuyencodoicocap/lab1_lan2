@@ -1,0 +1,30 @@
+.hihi{
+        color: rgb(201, 228, 201);
+        background-color:rgb(37, 150, 190)
+        
+}
+div.ảnh{
+    position: absolute;
+    left: 1100px;
+    top: 80px;
+    justify-content: right;
+}
+#huyen-black{
+    color: #333;
+}
+.huyen-blue{
+    background-color: RGB(186,210,234); 
+}
+table,th,td{
+    border:1px solid black;
+}
+ table{
+    border-collapse: collapse;
+} 
+.huyen{
+    text-align: center;
+    font-weight:bold;
+}
+
+
+
